@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+We will explore interesting stuff here. Topics including: thoughts on technology development and societal impacts, reflection on methodological approach to problem solving, training for physical fitness, recovering from injury, classical music analysis and so on.
