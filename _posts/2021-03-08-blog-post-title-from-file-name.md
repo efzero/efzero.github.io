@@ -1,10 +1,17 @@
-## Blog Post Title From First Header
+## 3D Latent Diffusion
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+#### NeRF type methods
 
-If the file does not start with a header, then the post title will be derived from the filename.
+1. 3D Neural Field Generation using Triplane Diffusion (code available): https://arxiv.org/pdf/2211.16677.pdf
+2. Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction (code available): https://lakonik.github.io/ssdnerf/
+3. One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization (code pending): https://github.com/One-2-3-45/One-2-3-45#one-2-3-45-any-single-image-to-3d-mesh-in-45-seconds-without-per-shape-optimization
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+
+#### Video Diffusion
+
+1. Latent Video Diffusion Models for High-Fidelity Long Video Generation https://arxiv.org/pdf/2211.13221.pdf
+2. MagicVideo: Efficient Video Generation With Latent Diffusion Models https://arxiv.org/pdf/2211.11018.pdf
+
 
 ---
 
