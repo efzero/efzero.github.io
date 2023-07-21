@@ -17,17 +17,13 @@
 #### Architecture of Diffusion NeRF
 
 <p align="center">
- <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.26.14%20PM.png" width="600" height="600">
+ <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.26.14%20PM.png" width="1000" height="400">
 </p>
 
 <p align="center">
-  <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.18.26%20PM.png" width="600" height="600">
+  <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.18.26%20PM.png" width="600" height="400">
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.18.26%20PM.png" width="600" height="600">
-</p>
 ---
 
 ### This is a header
