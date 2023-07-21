@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.18.26%20PM.png" width="600" height="400">
+  <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.18.26%20PM.png" width="500" height="400">
 </p>
 
 ---
