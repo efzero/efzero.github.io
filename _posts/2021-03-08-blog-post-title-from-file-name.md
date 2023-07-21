@@ -25,6 +25,16 @@
   <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.18.26%20PM.png" width="500" height="400">
 </p>
 
+
+
+##### Results for Sparse-View Reconstruction
+
+<p align="center">
+ <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.48.24%20PM.png" widht="1000" height="400">
+
+ </p>
+
+
 ---
 
 ### This is a header
