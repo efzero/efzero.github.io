@@ -11,6 +11,7 @@
 
 1. Latent Video Diffusion Models for High-Fidelity Long Video Generation https://arxiv.org/pdf/2211.13221.pdf
 2. MagicVideo: Efficient Video Generation With Latent Diffusion Models https://arxiv.org/pdf/2211.11018.pdf
+3. Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models https://research.nvidia.com/labs/toronto-ai/VideoLDM/
 
 
 
