@@ -12,6 +12,8 @@
 
 ## 第一个手术 （半月板修复）
 
+第一个手术写着是meniscectomy (半月板切除术), 也就是说医生觉得大概率会切半月板。之前从来没有做过全麻手术，听说会真切地体会到死亡。我术前两小时就躺在了手术床上，非常紧张，医生给了两针镇定剂。我还记得我清醒的时候问主刀医生最后一个问题：我之后还可以滑雪吗？他说Absolutely you can.之后在麻药注入之后我立刻失去了意识，醒来就像睡了个好觉，一看天已经黑了，男护士看到我醒了第一句话就是 "I got a great news for you. Dr.Abrams was able to fix your meniscus." 我非常的惊讶和喜悦，问他："Really? Is it a meniscus repair?". "Yes!""That's awesome!"随后护士又说"I had a best cure for you" 推着轮椅带我走向一楼的钢琴,弹了一小段，我也很开心，在轮椅上弹了千与千寻的Reprise, 这首曲子是千寻在鬼城历尽磨难，最后成功地找到了父母和回家的路时的bgm. 护士鼓了掌，觉得我弹的很好。
+
 
 
 #### Video Diffusion
