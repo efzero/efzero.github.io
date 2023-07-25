@@ -58,11 +58,10 @@
 2022/12之后恢复的就比较平稳了，等大腿力量完善了以后，我慢慢开始了跳跃的训练，从双脚跳逐渐过渡到单脚跳。单脚跳需要非常强的股四头肌支持，保证着地的稳定，我认为这个是整个复健最难的项目。直到3月份恢复跑步训练之后单脚跳才显著提高。我每周的力量练习schedule通常就是单腿半蹲，单腿腿举，深蹲，核心和上肢训练，然后还有15-18分钟的超高阻力自行车（我一般都把阻力调到最大，这样对肌肉激活效果最好）。除了单脚跳以外，别的进步都很快。2023/3，我得到了复健师return to running的肯定，当时冲出复健中心就跑了一千米，花了4分50， 发现已经很喘了，这才意识到体能下降的厉害，同时跑步的时候明显左右腿也不太平衡，左腿不敢负重（其实是和走路的时候差不多的问题）。解决方法就是锻炼左腿力量然后练跳跃。回归跑步后，单脚跳有了显著的提高，主要是跑步让身体更加的平衡了。同时我加入了硬拉的训练，这个动作对核心肌肉有着非常好的刺激，同时也能很好地锻炼腘绳肌。经常锻炼引体向上也让我的背更加稳定，带动核心力量的增加。这个时候生活已经绝大部分回归正常了，不过离伤前的体能还有一定距离。<br>
 ### 跑步训练
 我在2023/6月开始了正式的跑步训练，严格控制一周的跑量和跑步天数，a rule of thumb就是<b>跑完必须休息一天</b>, 每次训练最好不要超过5公里。同时我也读到了一篇非常好的论文，他们发现了速度越快，跑步对膝盖的总冲击越小，原因是速度快了人会倾向于前脚掌着地，大腿肌肉会更好的activate, 同时总接触时间变少了，那篇论文研究了8kph, 12kph和16kph三个速度 [Impact of Running Speed on Knee](https://pubmed.ncbi.nlm.nih.gov/25552288/), 发现了16kph对膝盖的总冲击最小, 于是我就确定了以间歇跑为主，辅以轻松慢跑的训练方案，同时继续练核心力量，腿部力量和上肢力量。2023/7/23我也顺利地完成了San Francisco Marathon的5K比赛，取得了总排名21 (out of 1406 runners), age group排名(4/97)的成绩。跑完膝盖没有任何不适。已经比受伤前的我跑的更快了，大概可以说从ACL伤病中合格毕业了，当然肯定伤病的影响还在，还有一些动作我做起来比较吃力，但肯定就是try my best to improve them吧，我相信肯定是能继续恢复的，只要肯动脑子想办法并且坚持。
-   
+<p align="center">
+  <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/Screen%20Shot%202023-07-25%20at%202.54.25%20PM.png?raw=true" width="1000" height="500">
+</p>
 
 <p align="center">
  <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/SFMbowen-editted.jpg?raw=true" width="450" height="700">
-</p>
-<p align="center">
-  <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/Screen%20Shot%202023-07-25%20at%202.54.25%20PM.png?raw=true" width="1000" height="500">
 </p>
