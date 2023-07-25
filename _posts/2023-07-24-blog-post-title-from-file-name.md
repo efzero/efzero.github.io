@@ -61,9 +61,8 @@
    
 
 <p align="center">
- <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/SFMbowen-editted.jpg?raw=true" width="500" height="700">
+ <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/SFMbowen-editted.jpg?raw=true" width="450" height="700">
 </p>
-https://github.com/efzero/efzero.github.io/blob/main/_layouts/Screen%20Shot%202023-07-25%20at%202.54.25%20PM.png
 <p align="center">
   <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/Screen%20Shot%202023-07-25%20at%202.54.25%20PM.png?raw=true" width="1000" height="500">
 </p>
