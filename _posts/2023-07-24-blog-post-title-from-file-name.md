@@ -59,9 +59,9 @@
 ### 跑步训练
 我在2023/6月开始了正式的跑步训练，严格控制一周的跑量和跑步天数，a rule of thumb就是<b>跑完必须休息一天</b>, 每次训练最好不要超过5公里。同时我也读到了一篇非常好的论文，他们发现了速度越快，跑步对膝盖的总冲击越小，原因是速度快了人会倾向于前脚掌着地，大腿肌肉会更好的activate, 同时总接触时间变少了，那篇论文研究了8kph, 12kph和16kph三个速度 [Impact of Running Speed on Knee](https://pubmed.ncbi.nlm.nih.gov/25552288/), 发现了16kph对膝盖的总冲击最小, 于是我就确定了以间歇跑为主，辅以轻松慢跑的训练方案，同时继续练核心力量，腿部力量和上肢力量。2023/7/23我也顺利地完成了San Francisco Marathon的5K比赛，取得了总排名21 (out of 1406 runners), age group排名(4/97)的成绩。跑完膝盖没有任何不适。已经比受伤前的我跑的更快了，大概可以说从ACL伤病中合格毕业了，当然肯定伤病的影响还在，还有一些动作我做起来比较吃力，但肯定就是try my best to improve them吧，我相信肯定是能继续恢复的，只要肯动脑子想办法并且坚持。
 <p align="center">
-  <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/Screen%20Shot%202023-07-25%20at%202.54.25%20PM.png?raw=true" width="1000" height="300">
+  <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/Screen%20Shot%202023-07-25%20at%202.54.25%20PM.png?raw=true" width="1000" height="350">
 </p>
 
 <p align="center">
- <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/SFMbowen-editted.jpg?raw=true" width="350" height="700">
+ <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/SFMbowen-editted.jpg?raw=true" width="325" height="500">
 </p>
