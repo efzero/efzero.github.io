@@ -36,17 +36,30 @@
 这个时候我的运动能力也恢复很多了，甚至10月份还爬了Mt.Rainier的skyline trail, 那是个hard difficulty的trail, 不过走路还是有些问题。复健师也敏锐地发现了我走路的一个问题，就是左膝弯曲度还有问题，他们认为是我左膝术后有疤痕组织粘连，用很多手法按摩，但效果其实也一般。复健师决定整个大活，拿出了他的拔火罐秘方（他是个美国白人，我也不知道他从哪学的拔火罐），他跟我说这个能lift kneecap 12%。 然后提起来之后hopefully能让疤痕组织被身体吸收。治疗过程非常intense, 膝盖周末吸了五个拔火罐然后他让我在那个时候直抬腿，拔火罐下的皮肤都红透了就像出血了一样，非常疼，当募集肌肉的时候更疼。第一个疗程后下楼梯轻松了很多，感觉似乎膝盖弯曲好了一些，但还是有粘连感。
 
 ## 突发状况 （2022/10/18）
-就在拔火罐治疗后一周，我去了湖滨公园散步，停好车试在下坡走路的时候，听到了左膝右侧闷响了一声，我不以为然，继续往前走，然后又听见啪的一声响，我突然发现我左膝一下子变得非常灵活，关节屈伸非常自如，但是感觉好像松掉了，大腿肌肉好像很难发力。当时我立即害怕了起来：是不是重建的ACL断了，当时正好是术后五个月是ACL强度的危险期（重建的ACL强度在3-6个月最低最易断，因为旧的组织坏死新的组织还没长好). 
+就在拔火罐治疗后一周，我去了湖滨公园散步，停好车试在下坡走路的时候，听到了左膝右侧闷响了一声，我不以为然，继续往前走，然后又听见啪的一声响，我突然发现我左膝一下子变得非常灵活，关节屈伸非常自如，但是感觉好像松掉了，大腿肌肉好像很难发力，过伸的时候仿佛没有了拉扯感。这让我想到了当时滑雪左膝吃不上力的感觉，当时立即害怕了起来：是不是重建的ACL断了，当时正好是术后五个月是ACL强度的危险期（重建的ACL在3-6个月强度最低最易断，因为旧的组织坏死新的组织还没长好)，但当时也考虑到有没有可能不是断了而是疤痕组织被去掉了。如果是断了的话那就是个很大的悲剧，代表着要重新来一遍手术和恢复，会比第一次手术花更久的时间而且术后效果还会远不如第一次；如果没断的话那就是个大好消息，这意味着之前困扰着的粘连问题被解决了。<br>
+我当即决定立刻减小运动量，增加休息时间，同时仔细研究了我的步态。正常情况下走路是绝对不应该出现啪的响声的。我对着镜子仔细地看，发现我走路的时候，尤其是在抬起腿的时候，左膝有点向内倾斜。这个问题两家复健中心都没提到过，可能是不太容易发现。我搜了一些关于ACL受伤原理的论文，发现ACL损伤远比我想象中的容易。<br>
+有两种典型的损伤方式:
+1. 胫骨过度前移，通常是着地或者冲撞导致的
+  a. 直腿或者膝盖过伸着地，这种情况对ACL有很大的stress,
+  b. 着地后后坐，常见于滑雪跳跃，等等，这个是身体重心后移，胫骨就自然会相对前移
+  c. 脚尖被一个东西绊倒，或者踢到一个重物，这样是因为胫骨是一个杠杆，如果髌腱紧张那也会对ACL有压力
+  d. 健身房的某些器械，就是那种顶着小腿，上半身下沉，类似仰卧起坐那样的动作的。这样给胫骨很大的压力, 这个视频就有个完美的例子: https://www.youtube.com/shorts/SZjPTWa2xf4。同时大腿伸直器械也是对ACL有害，参考c.
+2. 膝盖有扭转
+   a. 最经典的伤法就是脚没有离地(foot planted),然后股骨内旋或者胫骨外旋，同时膝盖向内倾斜(valgus), 这样是ACL损伤最常见的情况，所有旋转类的动作都要小心
+   b. 脚尖被物体绊倒，往外旋转
+   c. 着地的时候外八，或者蹲下的时候膝盖往内倾
+   
+这些动作都是有可能在生活中出现的，同样的这些动作也可能会造成半月板的损伤。要避免这些情况就必须要做到任何动作都很小心。像我当时在湖滨公园走路的时候就是膝盖往内倾不过幸运的是膝盖没有旋转，而且当时是半蹲的状态，如果是半蹲没有旋转的话最多只会伤到MCL而不是ACL (但是伸直的话就可能两个都伤到）[valgus on ACL length](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3647681/)。因此，我确定了两个对策
+1. 彻底修正膝盖走路时的内倾姿态，办法就是先原地抬腿100下，练3组左右，保证腿抬起来时没有内倾，然后走路的时候让左腿抬腿的动作变得很夸张，做到脚尖离地很多，这样能更好的收缩腘绳肌（腘绳肌是保护ACL最重要的肌肉). 然后反复训练拍视频看姿态。
+2. 改变之前走路不仔细看路的情况，要保证每一步都要慢慢落下，不能出现突然的直腿着地的情况，不能出现被一个东西绊到的情况，同时走路也要focus on髋部肌肉的伸展，不能出现膝盖内倾的情况
+10/19号我就去了SPT(复健）让他们给我看下膝盖的稳定度，医生觉得非常稳定，可能就是止点稍有点软（对于5个月的graft来说是正常的), 后来随着静养一段时间慢慢地膝盖，感觉韧带变得更结实了，主刀医生也认为韧带很好；之后直到拍MRI复查才发现韧带和半月板都很好。这个过程中我roll back了之前复健的进度，正好那个时候是ACL脆弱期，效果很显著，膝盖的活动度明显改善，而且一点肿胀和积液都没了。同时我发现走路的时候，弹响明显减少，应该是走路练习的功劳
 
-#### Video Diffusion
+## ACL重建后期 （2022/12- present)
+2022/12之后恢复的就比较平稳了，等大腿力量完善了以后，我慢慢开始了跳跃的训练，从双脚跳逐渐过渡到单脚跳。单脚跳需要非常强的股四头肌支持，保证着地的稳定，我认为这个是整个复健最难的项目。直到3月份恢复跑步训练之后单脚跳才显著提高。我每周的力量练习schedule通常就是单腿半蹲，单腿腿举，深蹲，核心和上肢训练，然后还有15-18分钟的超高阻力自行车（我一般都把阻力调到最大，这样对肌肉激活效果最好）。除了单脚跳以外，别的进步都很快。2023/3，我得到了复健师return to running的肯定，当时冲出复健中心就跑了一千米，花了4分50， 发现已经很喘了，这才意识到体能下降的厉害，同时跑步的时候明显左右腿也不太平衡，左腿不敢负重（其实是和走路的时候差不多的问题）。解决方法就是锻炼左腿力量然后练跳跃。回归跑步后，单脚跳有了显著的提高，主要是跑步让身体更加的平衡了。同时我加入了硬拉的训练，这个动作对核心肌肉有着非常好的刺激，同时也能很好地锻炼腘绳肌。经常锻炼引体向上也让我的背更加稳定，带动核心力量的增加。这个时候生活已经绝大部分回归正常了，不过离伤前的体能还有一定距离。<br>
+### 跑步训练
+我在2023/6月开始了正式的跑步训练，严格控制一周的跑量和跑步天数，a rule of thumb就是<b>跑完必须休息一天</b>, 每次训练最好不要超过5公里。同时我也读到了一篇非常好的论文，他们发现了速度越快，跑步对膝盖的总冲击越小，原因是速度快了人会倾向于前脚掌着地，大腿肌肉会更好的activate, 同时总接触时间变少了，那篇论文研究了8kph, 12kph和16kph三个速度 [Impact of Running Speed on Knee](https://pubmed.ncbi.nlm.nih.gov/25552288/), 发现了16kph对膝盖的总冲击最小, 于是我就确定了以间歇跑为主，辅以轻松慢跑的训练方案，同时继续练核心力量，腿部力量和上肢力量。2023/7/23我也顺利地完成了San Francisco Marathon的5K比赛，取得了总排名21 (out of 1400 runners), age group排名(4/97)的成绩。跑完膝盖没有任何不适。已经比受伤前的我跑的更快了，大概可以说从ACL伤病中合格毕业了，当然肯定伤病的影响还在，还有一些动作我做起来比较吃力，但肯定就是try my best to improve them吧，我相信肯定是能继续恢复的，只要肯动脑子想办法并且坚持。
+   
 
-1. Latent Video Diffusion Models for High-Fidelity Long Video Generation [Video Diffusion](https://arxiv.org/pdf/2211.13221.pdf)
-2. MagicVideo: Efficient Video Generation With Latent Diffusion Models [Video Diffusion 2](https://arxiv.org/pdf/2211.11018.pdf)
-3. Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models [Latent Video Diffusion](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
-
-
-
-#### Architecture of Diffusion NeRF
 
 <p align="center">
  <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.26.14%20PM.png?raw=true" width="1000" height="400">
@@ -55,38 +68,3 @@
 <p align="center">
   <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.18.26%20PM.png?raw=true" width="500" height="400">
 </p>
-
-
-
-##### Results for Sparse-View Reconstruction
-
-<p align="center">
- <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-07-20%20at%206.48.24%20PM.png?raw=true" widht="1000" height="400">
-
- </p>
-
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
