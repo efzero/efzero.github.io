@@ -1,6 +1,6 @@
 
 
-### Sensitive to Hyperparameters
+### Diffusion
 
 Even though we introduce a few hyperparameters, we found that our method can be easily adapted to new tasks (inverse problems), and the hyperparameters are straightforward to tune. Actually, we use the same set of hyperparameters for all natural images experiments and only change a little for medical images experiments. We provide the reason in the table below:
 |  Hyperparameter Name  | Purpose  |  Tuning difficulty |
