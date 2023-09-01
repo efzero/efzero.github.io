@@ -34,15 +34,15 @@ Inference.
 ### Triplane Representation of Knee MRI image ###
 
 <p align="center">
- <img src="https://github.com/efzero/PINER/blob/master/networks/triplane_agg.png?raw=true" width="1000" height="400">
+ <img src="https://github.com/efzero/PINER/blob/master/networks/triplane_agg.png?raw=true" width="400" height="400">
 </p>
 
 <p align="center">
- <img src="https://github.com/efzero/PINER/blob/master/networks/triplane_dim0.png?raw=true" width="1000" height="400">
+ <img src="https://github.com/efzero/PINER/blob/master/networks/triplane_dim0.png?raw=true" width="400" height="400">
 </p>
 
 <p align="center">
- <img src="https://github.com/efzero/PINER/blob/master/networks/triplane_dim2.png?raw=true" width="1000" height="400">
+ <img src="https://github.com/efzero/PINER/blob/master/networks/triplane_dim2.png?raw=true" width="400" height="400">
 </p>
 
 
