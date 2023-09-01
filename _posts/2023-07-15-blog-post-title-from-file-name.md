@@ -16,14 +16,14 @@
 3. Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models [Latent Video Diffusion](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 4. https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf (combining a SR DM and LDM) **This is can used together with a 2D image latent diffusion model (e.g. stable diffusion)**, The key idea is **Adjust the latent vector by a 3D temporal network**
  Training
-   a. first use latent 2D diffusion encoder to obtain a code (spatial step) for 
-   b. then use temporal network to adjust the latent code, and combine with the original code (a convex combination)
-   c. Do this for a couple of times
+   1. first use latent 2D diffusion encoder to obtain a code (spatial step) for 
+   2. then use temporal network to adjust the latent code, and combine with the original code (a convex combination)
+   3. Do this for a couple of times
 Inference.
 5. Video Probabilistic Diffusion Models in Projected Latent Space
-   a. Use the triplane idea (xy, xz, yz) latent codes (using 2D diffusion instead of 3D diffusion)
-   b. First use video transformer to compress video C X H X W -> C X H' X W'
-   c. Then use three small transformers to project 3D into 2D i.e. $z_h = f_{\theta}(u_h)$, $z_w = f_{\theta}(u_w)$, $z_c = f_{\theta}(u_c)$ reducing space complexity to $O(HWC)$ to $O(HW) + O(CW) + O(HC)$
+   1. Use the triplane idea (xy, xz, yz) latent codes (using 2D diffusion instead of 3D diffusion)
+   2. First use video transformer to compress video C X H X W -> C X H' X W'
+   3. Then use three small transformers to project 3D into 2D i.e. $z_h = f_{\theta}(u_h)$, $z_w = f_{\theta}(u_w)$, $z_c = f_{\theta}(u_c)$ reducing space complexity to $O(HWC)$ to $O(HW) + O(CW) + O(HC)$
 
 ### VPDM Architecture ###
 
