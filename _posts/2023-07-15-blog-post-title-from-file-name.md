@@ -13,7 +13,7 @@
 
 1. Latent Video Diffusion Models for High-Fidelity Long Video Generation [Video Diffusion](https://arxiv.org/pdf/2211.13221.pdf)
 2. MagicVideo: Efficient Video Generation With Latent Diffusion Models [Video Diffusion 2](https://arxiv.org/pdf/2211.11018.pdf)
-3. Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models [Latent Video Diffusion](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) [Latent CV](https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf) (combining a SR DM and LDM) **This is can used together with a 2D image latent diffusion model (e.g. stable diffusion)**, The key idea is **Adjust the latent vector by a 3D temporal network**
+3. Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models [Latent Video Diffusion](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) [Latent CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf) (combining a SR DM and LDM) **This is can used together with a 2D image latent diffusion model (e.g. stable diffusion)**, The key idea is **Adjust the latent vector by a 3D temporal network**
  Training
    1. first use latent 2D diffusion encoder to obtain a code (spatial step) for 
    2. then use temporal network to adjust the latent code, and combine with the original code (a convex combination)
