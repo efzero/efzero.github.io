@@ -24,8 +24,26 @@ Inference.
    a. Use the triplane idea (xy, xz, yz) latent codes (using 2D diffusion instead of 3D diffusion)
    b. First use video transformer to compress video C X H X W -> C X H' X W'
    c. Then use three small transformers to project 3D into 2D i.e. $z_h = f_{\theta}(u_h)$, $z_w = f_{\theta}(u_w)$, $z_c = f_{\theta}(u_c)$ reducing space complexity to $O(HWC)$ to $O(HW) + O(CW) + O(HC)$
- 
 
+### VPDM Architecture ###
+
+<p align="center">
+ <img src="https://github.com/efzero/PINER/blob/master/networks/Screen%20Shot%202023-08-31%20at%209.11.40%20PM.png?raw=true" width="1000" height="400">
+</p>
+
+### Triplane Representation of Knee MRI image ###
+
+<p align="center">
+ <img src="https://github.com/efzero/PINER/blob/master/networks/triplane_agg.png?raw=true" width="1000" height="400">
+</p>
+
+<p align="center">
+ <img src="https://github.com/efzero/PINER/blob/master/networks/triplane_dim0.png?raw=true" width="1000" height="400">
+</p>
+
+<p align="center">
+ <img src="https://github.com/efzero/PINER/blob/master/networks/triplane_dim2.png?raw=true" width="1000" height="400">
+</p>
 
 
 #### Architecture of Diffusion NeRF
