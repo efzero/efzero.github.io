@@ -32,6 +32,7 @@ for eXtremely Long Video Generation (Coarse to Fine model). Coarse diffusion wit
 3. Flexible Diffusion Modeling of Long Videos: https://arxiv.org/pdf/2205.11495.pdf, conditional generation
 4. Video Diffusion Models https://arxiv.org/abs/2212.00235, 3D UNet
 5. VIDM: Video Implicit Diffusion Models https://arxiv.org/pdf/2212.00235.pdf combining a motion generator and a content generator. with normalization (INR like)
+6. Video Diffusion Models with Local-Global Context Guidance https://arxiv.org/pdf/2306.02562.pdf Global context and local context
 
 #### Visual AutoPrompting
 1. ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot
