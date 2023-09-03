@@ -37,12 +37,21 @@ for eXtremely Long Video Generation (Coarse to Fine model). Coarse diffusion wit
 1. ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot
 Image Translation https://arxiv.org/pdf/2305.04651.pdf, use GPT3 to change prompt and edit image
 2. Negative-prompt Inversion: Fast Image Inversion for
-Editing with Text-guided Diffusion Models image editting without optimization.
+Editing with Text-guided Diffusion Models image editting without optimization. https://arxiv.org/pdf/2305.16807.pdf
+3. Visual Instruction Inversion:
+Image Editing via Visual Prompting https://arxiv.org/pdf/2307.14331.pdf
+4. Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models https://arxiv.org/abs/2209.06970
 ##### Test-time Adaptation
-3. Prompting Diffusion Representations for
+4. Prompting Diffusion Representations for
 Cross-Domain Semantic Segmentation: https://arxiv.org/pdf/2307.02138.pdf use prompt to improve generalization ability of diffusion models
 
-   
+
+
+#### Other Related Works
+1. MAGVIT: Masked Generative Video Transformer: https://arxiv.org/pdf/2212.05199.pdf
+2. MCVD: Masked Conditional Video Diffusion for
+Prediction, Generation, and Interpolation https://arxiv.org/pdf/2205.09853.pdf masked methods like MAE etc
+3. Diffusion Models as Masked Autoencoders https://arxiv.org/abs/2304.03283
 ### VPDM Architecture ###
 
 <p align="center">
