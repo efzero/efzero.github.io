@@ -33,6 +33,8 @@ for eXtremely Long Video Generation (Coarse to Fine model). Coarse diffusion wit
 4. Video Diffusion Models https://arxiv.org/abs/2212.00235, 3D UNet
 5. VIDM: Video Implicit Diffusion Models https://arxiv.org/pdf/2212.00235.pdf combining a motion generator and a content generator. with normalization (INR like)
 6. Video Diffusion Models with Local-Global Context Guidance https://arxiv.org/pdf/2306.02562.pdf Global context and local context
+7. Animate-A-Story:
+Storytelling with Retrieval-Augmented Video Generation https://arxiv.org/pdf/2307.06940.pdf
 
 #### Visual AutoPrompting
 1. ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot
@@ -43,16 +45,22 @@ Editing with Text-guided Diffusion Models image editting without optimization. h
 Image Editing via Visual Prompting https://arxiv.org/pdf/2307.14331.pdf
 4. Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models https://arxiv.org/abs/2209.06970
 ##### Test-time Adaptation
-4. Prompting Diffusion Representations for
+5. Prompting Diffusion Representations for
 Cross-Domain Semantic Segmentation: https://arxiv.org/pdf/2307.02138.pdf use prompt to improve generalization ability of diffusion models
 
 
-
+#### Inverse Problem
+1. Diffusion with Forward Models: Solving Stochastic
+Inverse Problems Without Direct Supervision https://arxiv.org/pdf/2306.11719.pdf
 #### Other Related Works
 1. MAGVIT: Masked Generative Video Transformer: https://arxiv.org/pdf/2212.05199.pdf
 2. MCVD: Masked Conditional Video Diffusion for
 Prediction, Generation, and Interpolation https://arxiv.org/pdf/2205.09853.pdf masked methods like MAE etc
 3. Diffusion Models as Masked Autoencoders https://arxiv.org/abs/2304.03283
+4. DIFFUSION MODELS ALREADY HAVE A SEMANTIC LATENT SPACE https://arxiv.org/pdf/2210.10960.pdf
+5. ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models https://arxiv.org/pdf/2302.07257.pdf
+6. Visual Instruction Tuning: https://arxiv.org/pdf/2304.08485.pdf
+   
 ### VPDM Architecture ###
 
 <p align="center">
