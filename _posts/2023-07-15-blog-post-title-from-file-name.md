@@ -23,7 +23,26 @@ Inference.
    1. Use the triplane idea (xy, xz, yz) latent codes (using 2D diffusion instead of 3D diffusion)
    2. First use video transformer to compress video C X H X W -> C X H' X W'
    3. Then use three small transformers to project 3D into 2D i.e. $z_h = f_{\theta}(u_h)$, $z_w = f_{\theta}(u_w)$, $z_c = f_{\theta}(u_c)$ reducing space complexity to $O(HWC)$ to $O(HW) + O(CW) + O(HC)$
+  
+#### Long Video Generation
+1. NUWA-XL: Diffusion over Diffusion
+for eXtremely Long Video Generation (Coarse to Fine model). Coarse diffusion with a fine diffusion: https://arxiv.org/pdf/2303.12346.pdf
+2. VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation, https://arxiv.org/pdf/2303.08320.pdf, generate residual due to highly correlated frames
 
+3. Flexible Diffusion Modeling of Long Videos: https://arxiv.org/pdf/2205.11495.pdf, conditional generation
+4. Video Diffusion Models https://arxiv.org/abs/2212.00235, 3D UNet
+5. VIDM: Video Implicit Diffusion Models https://arxiv.org/pdf/2212.00235.pdf combining a motion generator and a content generator. with normalization (INR like)
+
+#### Visual AutoPrompting
+1. ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot
+Image Translation https://arxiv.org/pdf/2305.04651.pdf, use GPT3 to change prompt and edit image
+2. Negative-prompt Inversion: Fast Image Inversion for
+Editing with Text-guided Diffusion Models image editting without optimization.
+##### Test-time Adaptation
+3. Prompting Diffusion Representations for
+Cross-Domain Semantic Segmentation: https://arxiv.org/pdf/2307.02138.pdf use prompt to improve generalization ability of diffusion models
+
+   
 ### VPDM Architecture ###
 
 <p align="center">
