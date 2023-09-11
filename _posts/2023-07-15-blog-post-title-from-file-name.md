@@ -66,6 +66,7 @@ Prediction, Generation, and Interpolation https://arxiv.org/pdf/2205.09853.pdf m
 
 
 sketch to image. VAE -> shared feature with downgraded image. (maybe try latent diffusion embedding)
+lora, text, change model itself, controlnet
 ### VPDM Architecture ###
 
 <p align="center">
