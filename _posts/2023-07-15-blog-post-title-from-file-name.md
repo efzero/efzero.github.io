@@ -60,7 +60,12 @@ Prediction, Generation, and Interpolation https://arxiv.org/pdf/2205.09853.pdf m
 4. DIFFUSION MODELS ALREADY HAVE A SEMANTIC LATENT SPACE https://arxiv.org/pdf/2210.10960.pdf
 5. ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models https://arxiv.org/pdf/2302.07257.pdf
 6. Visual Instruction Tuning: https://arxiv.org/pdf/2304.08485.pdf
-   
+7. Adversarial Discriminative Domain Adaptation https://arxiv.org/pdf/1702.05464.pdf
+8. Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Imaging Inverse Problems https://arxiv.org/pdf/2308.14409.pdf
+
+
+
+sketch to image. VAE -> shared feature with downgraded image. (maybe try latent diffusion embedding)
 ### VPDM Architecture ###
 
 <p align="center">
