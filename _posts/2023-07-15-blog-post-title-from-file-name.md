@@ -1,3 +1,10 @@
+## Domain Adaptation with Latent Diffusion Models for Segmentation and Classification
+
+## Fast Adaptation with in-context learning to new inverse problems
+
+## Long Video Generation with Latent Diffusion Models via AutoPrompting
+
+
 
 
 ## 3D Latent Diffusion
