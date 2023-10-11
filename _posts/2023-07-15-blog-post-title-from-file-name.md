@@ -1,4 +1,5 @@
 ## Domain Adaptation with Latent Diffusion Models for Segmentation and Classification
+1. In-Context Learning Unlocked for Diffusion Models: https://zhendong-wang.github.io/prompt-diffusion.github.io/, in-context visual/text prompts
 
 ## Fast Adaptation with in-context learning to new inverse problems
 
