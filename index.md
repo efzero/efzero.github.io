@@ -1,6 +1,6 @@
 # Bowen Song
 
-I am an Ph.D. candidate in Electrical and Computer Engineering at [University of Michigan, Ann Arbor](https://www.umich.edu/). Previously I worked at Microsoft as an applied scientist.
+I am a Ph.D. candidate in Electrical and Computer Engineering at [University of Michigan, Ann Arbor](https://www.umich.edu/). Previously I worked at Microsoft as an applied scientist.
 
 I obtained my Master's degree in Computational and Mathematical Engineering from [Stanford University](https://www.stanford.edu/), advised by Prof. Lei Xing; Bachelor's degree in Mathematics and Statistics from [University of Illinois, Urbana Champaign](https://illinois.edu/). 
 
