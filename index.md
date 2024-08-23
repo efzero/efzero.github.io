@@ -7,7 +7,7 @@ I obtained my Master's degree in Computational and Mathematical Engineering from
 My research interests lie in applications and theories of generative models and diffusion models. Recently, my projects focus on efficient training and inference on high-dimensional data with diffusion models. My previous projects are also related to test-time adaptation and implicit neural representation learnings.
 
 
-## Publications
+## Selected Publications
 
 
 **[DiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction](https://arxiv.org/pdf/2406.10211)**<br>
