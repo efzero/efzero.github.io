@@ -1,4 +1,4 @@
-# Bowen Song
+># Bowen Song
 
 I am an Ph.D. candidate in Electrical and Computer Engineering at [University of Michigan, Ann Arbor](https://www.umich.edu/). Previously I worked at Microsoft as an applied scientist.
 
@@ -7,7 +7,7 @@ I obtained my Master's degree in Computational and Mathematical Engineering from
 My research interests lie in applications and theories of generative models and diffusion models. Recently, my projects focus on efficient training and inference on high-dimensional data with diffusion models. My previous projects are also related to test-time adaptation and implicit neural representation learnings.
 
 
-## Selected Publications
+>## Selected Publications
 
 
 **[DiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction](https://arxiv.org/pdf/2406.10211)**<br>
@@ -39,6 +39,6 @@ Bowen Song, Liyue Shen*, Lei Xing*<br>
 
 
 
-## Blog
+>## Blog
 
 In this blog, we will explore interesting stuff here. Topics including: thoughts on technology development and societal impacts, reflection on methodological approach to problem solving, training for physical fitness, recovering from injury, classical music analysis and so on.
