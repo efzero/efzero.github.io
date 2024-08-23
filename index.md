@@ -12,12 +12,12 @@ My research interests lie in applications and theories of generative models and 
 
 **[DiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction](https://arxiv.org/pdf/2406.10211)**<br>
 Bowen Song*, Jason Hu*, Zhaoxu Luo, Jeffrey A Fessler, Liyue Shen<br>
-**ICML2024 Workshop on Structured Probabilistic Inference & Generative Modeling**
+**ICML2024** Workshop on Structured Probabilistic Inference & Generative Modeling
 
 
 **[SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models](https://arxiv.org/pdf/2406.10225)**<br>
 Zhaoxu Luo*, Bowen Song*, Liyue Shen<br>
-**ICML2024 Workshop on Structured Probabilistic Inference & Generative Modeling**
+**ICML2024** Workshop on Structured Probabilistic Inference & Generative Modeling
 
 **[CoSIGN: Few-Step Guidance of ConSIstency Model to Solve General INverse Problems](https://arxiv.org/pdf/2407.12676)**<br>
 Jiankun Zhao*, Bowen Song*, Liyue Shen<br>
