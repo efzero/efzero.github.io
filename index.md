@@ -1,4 +1,4 @@
-># Bowen Song
+# Bowen Song
 
 I am an Ph.D. candidate in Electrical and Computer Engineering at [University of Michigan, Ann Arbor](https://www.umich.edu/). Previously I worked at Microsoft as an applied scientist.
 
