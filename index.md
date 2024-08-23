@@ -19,20 +19,20 @@ Bowen Song*, Jason Hu*, Zhaoxu Luo, Jeffrey A Fessler, Liyue Shen<br>
 Zhaoxu Luo*, Bowen Song*, Liyue Shen<br>
 **ICML2024 Workshop on Structured Probabilistic Inference & Generative Modeling**
 
-**[CoSIGN: Few-Step Guidance of ConSIstency Model to Solve General INverse Problems](https://arxiv.org/pdf/2407.12676)**  
+**[CoSIGN: Few-Step Guidance of ConSIstency Model to Solve General INverse Problems](https://arxiv.org/pdf/2407.12676)**<br>
 Jiankun Zhao*, Bowen Song*, Liyue Shen<br>
 **ECCV2024**
 
 
-**[Solving inverse problems with latent diffusion models via hard data consistency](https://openreview.net/forum?id=j8hdRqOUhN)**
+**[Solving inverse problems with latent diffusion models via hard data consistency](https://openreview.net/forum?id=j8hdRqOUhN)**<br>
 Bowen Song*, Soo Min Kwon*, Zecheng Zhang, Xinyu Hu, Qing Qu, Liyue Shen<br>
 **ICLR2024**
 
-**[Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing](https://openreview.net/forum?id=OXv0zQ1umU)**
+**[Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing](https://openreview.net/forum?id=OXv0zQ1umU)**<br>
 Xinyu Hu, Pengfei Tang, Simiao Zuo, Zihan Wang, Bowen Song, Qiang Lou, Jian Jiao, Denis X Charles<br>
 **ICLR2024**
 
-**[PINER: Prior-Informed Implicit Neural Representation Learning for Test-Time Adaptation in Sparse-View CT Reconstruction](https://openaccess.thecvf.com/content/WACV2023/papers/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.pdf)**
+**[PINER: Prior-Informed Implicit Neural Representation Learning for Test-Time Adaptation in Sparse-View CT Reconstruction](https://openaccess.thecvf.com/content/WACV2023/papers/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.pdf)**<br>
 Bowen Song, Liyue Shen*, Lei Xing*<br>
 **WACV2023**
 
