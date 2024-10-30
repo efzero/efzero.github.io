@@ -26,7 +26,7 @@ Jiankun Zhao\*, Bowen Song\*, Liyue Shen<br>
 
 **[Solving inverse problems with latent diffusion models via hard data consistency](https://openreview.net/forum?id=j8hdRqOUhN)**<br>
 Bowen Song\*, Soo Min Kwon\*, Zecheng Zhang, Xinyu Hu, Qing Qu, Liyue Shen<br>
-**ICLR 2024**
+**ICLR 2024 (Spotlight)**
 
 **[Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing](https://openreview.net/forum?id=OXv0zQ1umU)**<br>
 Xinyu Hu, Pengfei Tang, Simiao Zuo, Zihan Wang, Bowen Song, Qiang Lou, Jian Jiao, Denis X Charles<br>
