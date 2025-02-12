@@ -4,7 +4,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at [University of 
 
 I obtained my Master's degree in Computational and Mathematical Engineering from [Stanford University](https://www.stanford.edu/), advised by Prof. Lei Xing; Bachelor's degree in Mathematics and Statistics from [University of Illinois, Urbana Champaign](https://illinois.edu/). 
 
-My research interests lie in applications and theories of generative models and diffusion models. Recently, my projects focus on efficient training and inference on high-dimensional data with diffusion models. My previous projects are also related to test-time adaptation and implicit neural representation learnings.
+My research interests lie in applications and theories of generative models and diffusion models. Recently, my projects focus on reliable, controllable and efficient training and inference on high-dimensional data with generative models. My previous projects are also related to test-time adaptation and implicit neural representation learnings.
 
 
 >## Selected Publications
