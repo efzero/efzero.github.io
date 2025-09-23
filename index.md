@@ -9,6 +9,9 @@ My research interests lie in applications and theories of generative models and 
 
 >## Selected Publications
 
+**[Controllable and Constrained Sampling with Diffusion Models via Initial Noise Perturbation](https://arxiv.org/abs/2502.04670)**<br>
+***Bowen Song***, Zecheng Zhang, Zhaoxu Luo, Jason Hu, Wei Yuan, Jing Jia, Zhengxu Tang, Guanyang Wang, Liyue Shen<br>
+**NeurIPS 2025**
 
 **[DiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction](https://arxiv.org/pdf/2406.10211)**<br>
 ***Bowen Song***\*, Jason Hu\*, Zhaoxu Luo, Jeffrey A Fessler, Liyue Shen<br>
