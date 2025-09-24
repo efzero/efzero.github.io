@@ -9,6 +9,7 @@ My research interests lie in applications and theories of generative models and 
 
 >## Selected Publications
 
+
 <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/CCS_small.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
 **[Controllable and Constrained Sampling with Diffusion Models via Initial Noise Perturbation](https://arxiv.org/abs/2502.04670)**<br>
@@ -23,7 +24,7 @@ My research interests lie in applications and theories of generative models and 
 ***Bowen Song***\*, Jason Hu\*, Zhaoxu Luo, Jeffrey A Fessler, Liyue Shen<br>
 **NeurIPS 2024** 
 
-<br clear = "left"/>
+<!-- <br clear = "left"/> -->
 
 <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/ReSample.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
@@ -31,7 +32,7 @@ My research interests lie in applications and theories of generative models and 
 ***Bowen Song***\*, Soo Min Kwon\*, Zecheng Zhang, Xinyu Hu, Qing Qu, Liyue Shen<br>
 **ICLR 2024 (Spotlight)**
 
-<br clear="left"/>
+<!-- <br clear="left"/> -->
 
 <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/cosign.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
@@ -41,7 +42,7 @@ Jiankun Zhao\*, ***Bowen Song***\*, Liyue Shen<br>
 
 <br clear="left"/>
 
-<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/evoke.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
+<!-- <img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/evoke.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
 **[Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing](https://openreview.net/forum?id=OXv0zQ1umU)**<br>
 Xinyu Hu, Pengfei Tang, Simiao Zuo, Zihan Wang, ***Bowen Song***, Qiang Lou, Jian Jiao, Denis X Charles<br> 
@@ -60,7 +61,7 @@ Xinyu Hu, Pengfei Tang, Simiao Zuo, Zihan Wang, ***Bowen Song***, Qiang Lou, Jia
 
 **[SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models](https://arxiv.org/pdf/2406.10225)**<br>
 ***Bowen Song***\*, Zhaoxu Luo\*, Liyue Shen<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ICML 2024** Workshop on Structured Probabilistic Inference & Generative Modeling
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ICML 2024** Workshop on Structured Probabilistic Inference & Generative Modeling -->
 
 
 
