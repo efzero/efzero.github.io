@@ -9,7 +9,7 @@ My research interests lie in applications and theories of generative models and 
 
 >## Selected Publications
 
-<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/CCS_small.png?raw=true" width="120" align="left"> 
+<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/CCS_small.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
 **[Controllable and Constrained Sampling with Diffusion Models via Initial Noise Perturbation](https://arxiv.org/abs/2502.04670)**<br>
 ***Bowen Song***, Zecheng Zhang, Zhaoxu Luo, Jason Hu, Wei Yuan, Jing Jia, Zhengxu Tang, Guanyang Wang, Liyue Shen<br>
@@ -17,7 +17,7 @@ My research interests lie in applications and theories of generative models and 
 
 <br clear="left"/>
 
-<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/diffusionblend.png?raw=true" width="120" align="left"> 
+<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/diffusionblend.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
 **[DiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction](https://arxiv.org/pdf/2406.10211)**<br>
 ***Bowen Song***\*, Jason Hu\*, Zhaoxu Luo, Jeffrey A Fessler, Liyue Shen<br>
@@ -25,7 +25,7 @@ My research interests lie in applications and theories of generative models and 
 
 <br clear = "left"/>
 
-<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/ReSample.png?raw=true" width="120" align="left"> 
+<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/ReSample.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
 **[Solving inverse problems with latent diffusion models via hard data consistency](https://openreview.net/forum?id=j8hdRqOUhN)**<br>
 ***Bowen Song***\*, Soo Min Kwon\*, Zecheng Zhang, Xinyu Hu, Qing Qu, Liyue Shen<br>
@@ -33,7 +33,7 @@ My research interests lie in applications and theories of generative models and 
 
 <br clear="left"/>
 
-<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/cosign.png?raw=true" width="120" align="left"> 
+<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/cosign.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
 **[CoSIGN: Few-Step Guidance of ConSIstency Model to Solve General INverse Problems](https://arxiv.org/pdf/2407.12676)**<br>
 Jiankun Zhao\*, ***Bowen Song***\*, Liyue Shen<br>
@@ -41,14 +41,14 @@ Jiankun Zhao\*, ***Bowen Song***\*, Liyue Shen<br>
 
 <br clear="left"/>
 
-<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/evoke.png?raw=true" width="120" align="left"> 
+<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/evoke.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
 **[Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing](https://openreview.net/forum?id=OXv0zQ1umU)**<br>
 Xinyu Hu, Pengfei Tang, Simiao Zuo, Zihan Wang, ***Bowen Song***, Qiang Lou, Jian Jiao, Denis X Charles<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ICLR 2024**
 
 
-<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/piner.png?raw=true" width="120" align="left"> 
+<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/piner.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
 **[PINER: Prior-Informed Implicit Neural Representation Learning for Test-Time Adaptation in Sparse-View CT Reconstruction](https://openaccess.thecvf.com/content/WACV2023/papers/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.pdf)**<br>
 ***Bowen Song***, Liyue Shen\*, Lei Xing\*<br>
@@ -56,7 +56,7 @@ Xinyu Hu, Pengfei Tang, Simiao Zuo, Zihan Wang, ***Bowen Song***, Qiang Lou, Jia
 
 <br clear="left"/>
 
-<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/satdiffmoe.png?raw=true" width="120" align="left"> 
+<img src="https://github.com/efzero/efzero.github.io/blob/main/_layouts/satdiffmoe.png?raw=true" width="120" align="left" style="margin-right:15px;"> 
 
 **[SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models](https://arxiv.org/pdf/2406.10225)**<br>
 ***Bowen Song***\*, Zhaoxu Luo\*, Liyue Shen<br>
