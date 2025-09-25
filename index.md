@@ -7,6 +7,8 @@ I obtained my Master's degree in Computational and Mathematical Engineering from
 My research interests lie in applications and theories of generative models and diffusion models. Recently, my projects focus on reliable, controllable and efficient training and inference on high-dimensional data with generative models. My previous projects are also related to test-time adaptation and implicit neural representation learnings.
 
 
+>## **News**
+- **May 2025** — Joined **Meta FAIR (now MSL)**, working on *3D reconstruction models.*
 
 >## Selected Publications
 
