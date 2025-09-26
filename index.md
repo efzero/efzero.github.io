@@ -8,6 +8,7 @@ My research interests lie in applications and theories of generative models and 
 
 
 >## **News**
+
  **May 2025** — Joined **Meta FAIR (now MSL)**, working on *3D reconstruction models.*
 
 >## Selected Publications
