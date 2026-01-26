@@ -11,7 +11,9 @@ My research interests lie in applications and theories of generative models and 
 
 
  **January 2026** - Our paper: [Antithetic Noise in Diffusion Models](https://openreview.net/forum?id=9yFORC1tu3) is accepted by ICLR 2026!
+ 
  **November 2025** — Released SAM 3D! https://ai.meta.com/sam3d/. My contribution: Depth-VAE.
+ 
  **May 2025** — Joined **Meta FAIR (now MSL)**, working on *3D reconstruction models.*
 
 >## Selected Publications
