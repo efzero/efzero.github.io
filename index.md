@@ -1,6 +1,6 @@
 # Bowen Song
 
-I am a Ph.D. candidate in Electrical and Computer Engineering at [University of Michigan, Ann Arbor](https://www.umich.edu/). Previously I worked at Microsoft as an applied scientist.
+I am a Ph.D. candidate in Electrical and Computer Engineering at [University of Michigan, Ann Arbor](https://www.umich.edu/), advised by Prof. Liyue Shen. Previously I worked at Microsoft as an applied scientist.
 
 I obtained my Master's degree in Computational and Mathematical Engineering from [Stanford University](https://www.stanford.edu/), advised by Prof. Lei Xing; Bachelor's degree in Mathematics and Statistics from [University of Illinois, Urbana Champaign](https://illinois.edu/). 
 
@@ -10,6 +10,7 @@ My research interests lie in applications and theories of generative models and 
 >## **News**
 
 
+ **February 2026** - Defended my Ph.D.!
  **January 2026** - Our paper: [Antithetic Noise in Diffusion Models](https://openreview.net/forum?id=9yFORC1tu3) is accepted by ICLR 2026!
  
  **November 2025** — Released SAM 3D! https://ai.meta.com/sam3d/. My contribution: Depth-VAE.
