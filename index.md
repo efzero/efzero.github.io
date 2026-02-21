@@ -9,7 +9,8 @@ My research interests lie in applications and theories of generative models and 
 
 >## **News**
 
-
+ **February 2026** Our paper: [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/pdf/2511.16624) is accepted by CVPR 2026!
+ 
  **February 2026** - Defended my Ph.D.!
  
  **January 2026** - Our paper: [Antithetic Noise in Diffusion Models](https://openreview.net/forum?id=9yFORC1tu3) is accepted by ICLR 2026!
